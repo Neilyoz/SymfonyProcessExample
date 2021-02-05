@@ -1,0 +1,6 @@
+{
+    "require": {
+        "symfony/process": "^5.2",
+        "symfony/finder": "^5.2"
+    }
+}
